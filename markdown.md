@@ -9,7 +9,7 @@ El desarrollo va a requerir uso de sintaxis markdown
 git init
 git add .
 git commit -m "commit inicial de la práctica"
-
+```
 1. Crear estructura de directorios
 2. Redactar archivos markdown
 3. Subir el proyecto a github
