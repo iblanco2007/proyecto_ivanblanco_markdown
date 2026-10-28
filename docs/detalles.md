@@ -1,1 +1,1 @@
-Este es el fichero de detalles :)
+Este fichero verifica la navegación mediante enlaces
