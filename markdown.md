@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El desarrollo va a requerir uso de sintaxis markdown
+El **desarrollo** va a requerir uso de `sintaxis` *markdown*
 
 ```bash
 
