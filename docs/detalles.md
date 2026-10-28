@@ -1,1 +1,5 @@
-Este fichero verifica la navegación mediante enlaces
+# Detalles
+
+Documento secundario para verificar el enlace relativo
+
+- **Estado:** Correcto y Verificado
